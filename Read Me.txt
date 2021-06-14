@@ -1,0 +1,20 @@
+//Created by:
+//Antonia Kollia-Nika
+//annia_nika@hotmail.com
+
+1)Requirements: XAMMP installed in computer
+
+2)Run: 
+
+    Place project folder in XAMMP installed folder > htdocs 
+
+    In browser type:  localhost/Wineverse/index.php
+    
+3)Database:
+    
+    Name: Wineverse.sql
+    
+    Includes created user: 
+    -Username: eshopuser
+    -Password: eshopuserpasswd
+    
